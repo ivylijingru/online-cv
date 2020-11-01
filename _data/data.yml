@@ -80,12 +80,15 @@ education:
           - Bullet point
 
 experiences:
-#     - role: Music Technique Detection for Erhu
-#       time: March. 2020 - Sept. 2020
-#       company: Digital Audio Lab, Supervisor: Prof. Xiaoou Chen
-#       details: |
-#         Constructed a dataset for Erhu technique detection by randomly concatenating short technique clips played by the expertise and transforming them into mel-spectrograms as the input of a Neural Network. 
-#           - Bullet point
+    - role: Music Technique Detection for Erhu
+      time: March. 2020 - Sept. 2020
+      company: Digital Audio Lab, Supervised by Prof. Xiaoou Chen
+      details: |
+        Constructed a dataset for Erhu technique detection by randomly 
+        concatenating short technique clips played by the expertise and 
+        transforming them into mel-spectrograms as the input of a Neural 
+        Network. 
+          - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
