@@ -93,9 +93,7 @@ experiences:
 #         error sit voluptatem accusantium doloremque laudantium, totam rem
 #         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #         architecto beatae vitae dicta sunt explicabo.
-          - Constructed a dataset for Erhu technique detection by randomly 
-          concatenating short technique clips played by the expertise and 
-          transforming them into mel-spectrograms as the input of a Neural Network. 
+          - Constructed a dataset for Erhu technique detection by randomly concatenating short technique clips played by the expertise and transforming them into mel-spectrograms as the input of a Neural Network. 
           - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
